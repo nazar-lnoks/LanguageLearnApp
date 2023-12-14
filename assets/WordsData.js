@@ -1,0 +1,113 @@
+export const data = [
+    {
+    english: "abroad",
+    ukrainian: "за кордоном",
+  },
+  {
+    english: "accept",
+    ukrainian: "приймати",
+    V2: "accepted",
+    V3: "accepted",
+  },
+  {
+    english: "accident",
+    ukrainian: "аварія, нещасний випадок",
+    V2: ".",
+    V3: ".",
+  },
+  {
+    english: "according to",
+    ukrainian: "згідно з",
+    V2: "-",
+    V3: "-",
+  },
+  {
+    english: "account",
+    ukrainian: "рахунок, пояснювати",
+    V2: "accounted",
+    V3: "accounted",
+  },
+  {
+    english: "accustom",
+    ukrainian: "звикати",
+    V2: "accustomed",
+    V3: "accustomed",
+  },
+  {
+    english: "ache",
+    ukrainian: "біль, біль у якому місці",
+    V2: "-",
+    V3: "-",
+  },
+  {
+    english: "actually",
+    ukrainian: "фактично, насправді",
+    V2: "-",
+    V3: "-",
+  },
+  {
+    english: "almost",
+    ukrainian: "майже",
+    V2: "-",
+    V3: "-",
+  },
+  {
+    english: "apply",
+    ukrainian: "застосовувати, подавати заявку",
+    V2: "applied",
+    V3: "applied",
+  },
+  {
+    english: "argue",
+    ukrainian: "сперечатися",
+    V2: "argued",
+    V3: "argued",
+  },
+  {
+    english: "around",
+    ukrainian: "навколо",
+    V2: "-",
+    V3: "-",
+  },
+  {
+    english: "as well",
+    ukrainian: "також",
+    V2: "-",
+    V3: "-",
+  },
+  {
+    english: "as/as",
+    ukrainian: "як",
+    V2: ".",
+    V3: ".",
+  },
+  {
+    english: "attire",
+    ukrainian: "вбрання",
+    V2: ".",
+    V3: ".",
+  },
+  {
+    english: "award",
+    ukrainian: "нагороджувати",
+    V2: "awarded",
+    V3: "awarded",
+  },
+  {
+    english: "awareness",
+    ukrainian: "усвідомлення",
+    V2: "-",
+    V3: "-",
+  },
+  {
+    english: "awful",
+    ukrainian: "жахливий",
+    V2: "-",
+    V3: "-",
+  },
+  {
+    english: "back out of",
+    ukrainian: "відмовлятися",
+    V2: " backed out of",
+  },
+];
